@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="library/src"/>
+	<classpathentry kind="lib" path="library/dist/lib/AbsoluteLayout.jar"/>
+	<classpathentry kind="lib" path="library/dist/lib/mysql-connector-java-8.0.30.jar"/>
+	<classpathentry kind="lib" path="library/dist/lib/rs2xml.jar"/>
+	<classpathentry kind="lib" path="library/dist/library.jar"/>
+	<classpathentry kind="output" path="library/build/classes"/>
+</classpath>
